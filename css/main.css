@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+    font-family: 'roboto', sans-serif;
+}
+
+body {
+    background: linear-gradient(45deg, #4158D0, #C850C0);
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+::selection {
+    background-color: #000;
+    color: #fff;
+}
+.solito{
+    text-align: center;
+    margin-top: 5vh;
+    font-size: 6vh;
+}
+.tarjetas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3vw;
+    margin: 0 4vw;
+    height: 80vh;
+    perspective: 1000px;
+}
+
+.tarjeta {
+    position: relative;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    width: 18vw;
+    height: 70vh;
+    min-width: 200px;
+    max-height: 450px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform-origin: center;
+    transform-style: preserve-3d;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+.tarjeta img{
+    width: 80%;
+    border-radius: 500px;
+    margin-top: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tarjeta h2{
+    text-align: center;
+    margin-top: 10%;
+}
+.tarjeta p{
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.tarjeta::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+        135deg,
+        transparent 0%,
+        transparent 45%,
+        rgba(255, 255, 255, 0.2) 48%,
+        rgba(255, 255, 255, 0.6) 50%,
+        rgba(255, 255, 255, 0.2) 52%,
+        transparent 55%,
+        transparent 100%
+    );
+    transform: translateX(-100%) translateY(-100%) rotate(0deg);
+    transition: none;
+}
+
+.tarjeta:hover::after {
+    animation: brilloTarjeta 1s ease-out forwards;
+}
+
+@keyframes brilloTarjeta {
+    0% {
+        transform: translateX(-100%) translateY(-100%);
+    }
+    100% {
+        transform: translateX(50%) translateY(50%);
+    }
+}
+
+.tarjeta:hover {
+    transform: scale(1.1);
+    z-index: 1;
+}
+
+.tarjetas:hover .tarjeta:not(:hover) {
+    transform: scale(0.9);
+    opacity: 0.7;
+}
+
+@keyframes girarDosVeces {
+    0% {
+        transform: scale(1.1) rotateY(0deg);
+    }
+    100% {
+        transform: scale(1.1) rotateY(720deg); /* 720 grados = 2 vueltas completas */
+    }
+}
+
+.girar {
+    animation: girarDosVeces 2s ease-in-out forwards;
+    z-index: 100;
+}
+
+/* Ajustamos la transición de las tarjetas no seleccionadas */
+.tarjeta {
+    transition: all 0.5s ease;
+}
+
+/* Media query para móviles */
+@media screen and (max-width: 768px) {
+    .tarjetas {
+        flex-direction: column;
+        overflow-y: auto; /* Permite scroll solo dentro del contenedor de tarjetas */
+        gap: 20px;
+    }
+
+    .tarjeta {
+        width: 80vw;
+        height: 70vh;
+    }
+}
