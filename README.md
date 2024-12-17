@@ -1,1 +1,1 @@
-Follow me right?
+Muere omar
