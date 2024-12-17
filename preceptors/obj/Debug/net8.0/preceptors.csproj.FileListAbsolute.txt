@@ -1,0 +1,67 @@
+C:\Users\Omarius\Desktop\Libros\preceptors\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Omarius\Desktop\Libros\preceptors\bin\Debug\net8.0\appsettings.json
+C:\Users\Omarius\Desktop\Libros\preceptors\bin\Debug\net8.0\perceptron_params.json
+C:\Users\Omarius\Desktop\Libros\preceptors\bin\Debug\net8.0\preceptors.exe
+C:\Users\Omarius\Desktop\Libros\preceptors\bin\Debug\net8.0\preceptors.deps.json
+C:\Users\Omarius\Desktop\Libros\preceptors\bin\Debug\net8.0\preceptors.runtimeconfig.json
+C:\Users\Omarius\Desktop\Libros\preceptors\bin\Debug\net8.0\preceptors.dll
+C:\Users\Omarius\Desktop\Libros\preceptors\bin\Debug\net8.0\preceptors.pdb
+C:\Users\Omarius\Desktop\Libros\preceptors\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Omarius\Desktop\Libros\preceptors\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Omarius\Desktop\Libros\preceptors\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Omarius\Desktop\Libros\preceptors\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\preceptors.csproj.AssemblyReference.cache
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\preceptors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\preceptors.AssemblyInfoInputs.cache
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\preceptors.AssemblyInfo.cs
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\preceptors.csproj.CoreCompileInputs.cache
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\preceptors.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\preceptors.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\staticwebassets\msbuild.preceptors.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\staticwebassets\msbuild.build.preceptors.props
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.preceptors.props
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.preceptors.props
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\scopedcss\bundle\preceptors.styles.css
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\preceptors.csproj.CopyComplete
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\preceptors.dll
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\refint\preceptors.dll
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\preceptors.pdb
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\preceptors.genruntimeconfig.cache
+C:\Users\Omarius\Desktop\Libros\preceptors\obj\Debug\net8.0\ref\preceptors.dll
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\bin\Debug\net8.0\appsettings.json
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\bin\Debug\net8.0\preceptors.exe
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\bin\Debug\net8.0\perceptron_params.json
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\bin\Debug\net8.0\preceptors.deps.json
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\bin\Debug\net8.0\preceptors.runtimeconfig.json
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\bin\Debug\net8.0\preceptors.dll
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\bin\Debug\net8.0\preceptors.pdb
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\preceptors.csproj.AssemblyReference.cache
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\preceptors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\preceptors.AssemblyInfoInputs.cache
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\preceptors.AssemblyInfo.cs
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\preceptors.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\preceptors.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\preceptors.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\preceptors.sourcelink.json
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\staticwebassets\msbuild.preceptors.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\staticwebassets\msbuild.build.preceptors.props
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.preceptors.props
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.preceptors.props
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\scopedcss\bundle\preceptors.styles.css
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\preceptors.csproj.CopyComplete
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\preceptors.dll
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\refint\preceptors.dll
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\preceptors.pdb
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\preceptors.genruntimeconfig.cache
+C:\Users\ramon\Desktop\Practica Final Integradora\preceptors\obj\Debug\net8.0\ref\preceptors.dll

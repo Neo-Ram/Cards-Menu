@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ym2aj3ebQ7TpjdpYbSgm6JceUxVf4OIJ8XI+BOVNsR9xG4Mv/aZvuWmddAp/jvupjVsO49F1Vvit/l/urLTtqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramon\\Desktop\\Practica Final Integradora\\preceptors\\preceptors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ramon\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ramon\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ramon\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ramon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ramon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
